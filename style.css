@@ -78,3 +78,12 @@ h1 {
     font-size: 20px;
 
 }
+
+#red {
+
+    border-left: 7px solid red;
+}
+
+#blue {
+    border-left: 7px solid blue;
+}
