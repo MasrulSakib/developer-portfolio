@@ -17,7 +17,6 @@ h1 {
     text-align: justify;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
-    margin: 10px;
 }
 
 .flex-container {
@@ -57,5 +56,25 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+
+}
+
+.exp-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.exp-edit {
+    box-shadow: 10px 10px 40px orange;
+    width: 50%;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
 
 }
